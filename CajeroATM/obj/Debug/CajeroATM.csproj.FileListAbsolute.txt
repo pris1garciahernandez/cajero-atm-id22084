@@ -1,0 +1,10 @@
+C:\Users\mezal\OneDrive\Escritorio\POO2\Cajero ATM\CajeroATM\bin\Debug\CajeroATM.exe.config
+C:\Users\mezal\OneDrive\Escritorio\POO2\Cajero ATM\CajeroATM\bin\Debug\CajeroATM.exe
+C:\Users\mezal\OneDrive\Escritorio\POO2\Cajero ATM\CajeroATM\bin\Debug\CajeroATM.pdb
+C:\Users\mezal\OneDrive\Escritorio\POO2\Cajero ATM\CajeroATM\obj\Debug\CajeroATM.csproj.AssemblyReference.cache
+C:\Users\mezal\OneDrive\Escritorio\POO2\Cajero ATM\CajeroATM\obj\Debug\CajeroATM.Form1.resources
+C:\Users\mezal\OneDrive\Escritorio\POO2\Cajero ATM\CajeroATM\obj\Debug\CajeroATM.Properties.Resources.resources
+C:\Users\mezal\OneDrive\Escritorio\POO2\Cajero ATM\CajeroATM\obj\Debug\CajeroATM.csproj.GenerateResource.cache
+C:\Users\mezal\OneDrive\Escritorio\POO2\Cajero ATM\CajeroATM\obj\Debug\CajeroATM.csproj.CoreCompileInputs.cache
+C:\Users\mezal\OneDrive\Escritorio\POO2\Cajero ATM\CajeroATM\obj\Debug\CajeroATM.exe
+C:\Users\mezal\OneDrive\Escritorio\POO2\Cajero ATM\CajeroATM\obj\Debug\CajeroATM.pdb
